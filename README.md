@@ -1,18 +1,18 @@
 <h1 align="center"> Sejam todos bem-vindos! </h1>
 <hr />
-<a href="https://github.com/strongreen" target="_blank">
+<a href="https://github.com/jorgemsousa" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
   <b>Faaallaaa Encriptadores!</b>
 </p>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
+<a href="https://www.instagram.com/jorgeferartsousa/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
 Me chamo <b> Jorge Sousa</b>.
 </p>
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
+<a href="https://www.youtube.com/channel/UCJXjd7Mnaqv7wwCf8S8bdKg" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
@@ -20,7 +20,7 @@ Atualmente moro em Congonhas/MG-BR.<br />
 Concluí o curso na @betrybe e iniciei a transição da minha carreira para a àrea de <b>Segurança da informação </b>. <br> 
 Atualmente estou fazendo o curso na @4linux de Pentest: Técnicas de Intrusão em Redes Corporativas 
 </p>
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/jorge-meneses-61199898/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
