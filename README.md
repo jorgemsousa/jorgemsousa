@@ -7,7 +7,7 @@
   <img align="right" src="https://icon-icons.com/icon/bitbucket/146219.png" width="48px" height="48px">
 </a>
 <a href="https://gitlab.com/jorgemsousa" target="_blank">
-  <img align="right" src="https://icon-icons.com/icon/gitlab/146171.png" width="48px" height="48px">
+  <img align="right" src="https://cdn2.iconfinder.com/data/icons/social-network-round-gloss-shine/512/gitlab.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
   <b>Faaallaaa Encriptadores!</b>
