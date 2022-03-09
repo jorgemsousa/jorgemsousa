@@ -18,29 +18,27 @@ Me chamo <b> Jorge Sousa</b>.
 <p align="left" >
 Atualmente moro em Nossa Senhora do Socorro/SE-BR.<br />
 Concluí o curso de Técnico em Informática pelo <b>@IFS Instituto Federal de Sergipe</b>. <br> 
-Atualmente estou Cursando Graduação em Engenharia da Computação na <b>@UFS universidade Ferderal de Sergipe</b> 
+Atualmente estou Cursando Graduação em Engenharia da Computação na <b>@UFS Universidade Ferderal de Sergipe</b> 
 </p>
 <a href="https://www.linkedin.com/in/jorge-meneses-61199898/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
+Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em JavaScript:
 </p>
 <p align="left" >
 <ul>
-  <li>Youtube </li>
-  <li>Instagram </li>
-  <li><a href="https://midianinja.org/author/herikastrongreen/">Midia Ninja </a> </li>
-  <li><a href="https://pingback.com/strongreen">Ping Back</a></li>
+  <li>ReactJS </li>
+  <li>React Native </li>
 </ul>
 </p>
 <p align="left" >
-🚀 Também já palestrei em eventos como:
+🚀 Também já Desenvolvi pequenos projetos com:
   <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-  <li> Portal Embarcados </li>
-  <li> Programador real </li>
+  <li> .Net MVC </li>
+  <li> PHP </li>
+  <li> Java </li>
+  <li> Python </li>
   </ul>
 </p>
 </p>
@@ -51,23 +49,21 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
 
-- 👩‍💻 Estou concluindo o modulo de Ciência da Computação no curso que tem ênfase em **Python**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack, utilizando as stacks:
-  - Perl
-  - Python
-  - Angular JS
+- 👩‍💻 Tornar-me uma referência na área de ReactJS e React Native, para poder compartilhar a ajudar quem precise;
+- Trabalhando na *@CENCOSUD* como desenvolvedor Full Stack, utilizando as stacks:
+  - .Net Core
+  - JavaScript
   - Typescript
   - ReactJS
   - NodeJS
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💼 Gosto muito da área de tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking;
-  - Andar de Longboard; 
-  - Gravar conteúdos;
-  - Ler livros;
-  - Jogar League of Legends;
+  - Estudar;
+  - Bricar com meus filhos; 
+  - Ficar com a fámilia;
+  - Jogar ETS2;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
+- 📫 Se quiser pode enviar um email para jorgeferartsousa@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1LBaL8MXq1x99ZrrrTta2FDG0j--AIhvR/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>
