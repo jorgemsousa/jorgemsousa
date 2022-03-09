@@ -111,7 +111,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemsousa" alt="Jorge-Sousa" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
