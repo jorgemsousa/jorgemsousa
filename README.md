@@ -54,7 +54,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://pngset.com/images/hire-laravel-dedicated-developer-full-stack-developer-person-text-table-furniture-transparent-png-641658.png" width="400px" />
+<img align="right" alt="GIF" src="https://www.pngfind.com/pngs/m/258-2580697_clippy-png-png-download-clippy-windows-transparent-png.png" width="400px" />
 
 - 👩‍💻 Tornar-me uma referência na área de ReactJS e React Native, para poder compartilhar a ajudar quem precise;
 - Trabalhando na *@CENCOSUD* como desenvolvedor Full Stack, utilizando as stacks:
