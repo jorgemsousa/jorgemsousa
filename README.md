@@ -54,7 +54,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="http://img.timeinc.net/time/photoessays/2010/worst_inventions/worstinventions_clippy.jpg" width="400px" />
 
 - 👩‍💻 Tornar-me uma referência na área de ReactJS e React Native, para poder compartilhar a ajudar quem precise;
 - Trabalhando na *@CENCOSUD* como desenvolvedor Full Stack, utilizando as stacks:
