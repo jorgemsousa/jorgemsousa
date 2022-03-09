@@ -16,9 +16,9 @@ Me chamo <b> Jorge Sousa</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Congonhas/MG-BR.<br />
-Concluí o curso na @betrybe e iniciei a transição da minha carreira para a àrea de <b>Segurança da informação </b>. <br> 
-Atualmente estou fazendo o curso na @4linux de Pentest: Técnicas de Intrusão em Redes Corporativas 
+Atualmente moro em Nossa Senhora do Socorro/SE-BR.<br />
+Concluí o curso de Técnico em Informática pelo <b>@IFS Instituto Federal de Sergipe</b>. <br> 
+Atualmente estou Cursando Graduação em Engenharia da Computação na <b>@UFS universidade Ferderal de Sergipe</b> 
 </p>
 <a href="https://www.linkedin.com/in/jorge-meneses-61199898/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
