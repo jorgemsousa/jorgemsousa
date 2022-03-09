@@ -7,7 +7,7 @@
   <img align="right" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/bitbucket-repository-svn-manage-files-contribute-branch-256.png" width="48px" height="48px">
 </a>
 <a href="https://github.com/jorgemsousa" target="_blank">
-  <img align="right" src="" width="48px" height="48px">
+  <img align="right" src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
   <b>Faaallaaa Encriptadores!</b>
