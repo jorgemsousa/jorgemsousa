@@ -54,7 +54,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://en-cdn.beincrypto.com/wp-content/uploads/2022/02/tenx-hack.png.webp" width="400px" />
+<img align="right" alt="GIF" src="https://cdn.icon-icons.com/icons2/1468/PNG/512/hacker_101114.png" width="400px" />
 
 - 👩‍💻 Tornar-me uma referência na área de ReactJS e React Native, para poder compartilhar a ajudar quem precise;
 - Trabalhando na *@CENCOSUD* como desenvolvedor Full Stack, utilizando as stacks:
