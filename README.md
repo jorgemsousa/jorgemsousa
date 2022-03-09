@@ -4,7 +4,7 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <a href="https://bitbucket.org/jorgemsousa/" target="_blank">
-  <img align="right" src="https://www.google.com/search?q=bit+bucket&tbm=isch&chips=q:bit+bucket,online_chips:logo:_QBXyodB3dg%3D&rlz=1C1CHZN_pt-PTBR965BR965&hl=pt-BR&sa=X&ved=2ahUKEwi7h8b5jrn2AhXSSLgEHf_RC3sQ4lYoAHoECAEQHg&biw=1349&bih=635#imgrc=mJypf-mlMjDrdM" width="48px" height="48px">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <a href="https://gitlab.com/jorgemsousa" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
