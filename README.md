@@ -4,10 +4,10 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 <a href="https://bitbucket.org/jorgemsousa/" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://icon-icons.com/icon/bitbucket/146219.png" width="48px" height="48px">
 </a>
 <a href="https://gitlab.com/jorgemsousa" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://icon-icons.com/icon/gitlab/146171.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
   <b>Faaallaaa Encriptadores!</b>
@@ -71,7 +71,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
   - Jogar ETS2;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para jorgeferartsousa@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1LBaL8MXq1x99ZrrrTta2FDG0j--AIhvR/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://onedrive.live.com/edit.aspx?resid=2E898CA3F7ADC95F!23875&ithint=file%2cdocx" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemsousa&layout=compact&theme=graywhite&title_color=268bd2" alt="Jorge-Sousa" />
