@@ -10,7 +10,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Faaallaaa Encriptadores!</b>
+  <b>Faaaala Devs!</b>
 </p>
 <a href="https://www.instagram.com/jorgeferartsousa/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
