@@ -106,6 +106,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
 <img src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png" alt="NextJS" width="40" height="40" />
+<img src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" alt="CSharp"  width="40" height="40" />
 </p>
 
 
