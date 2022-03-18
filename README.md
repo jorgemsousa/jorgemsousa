@@ -71,7 +71,7 @@ Nas horas livres gosto de brincar com meus filhos, estudar e sempre com foco em 
   - Jogar ETS2;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para jorgeferartsousa@gmail.com.
-- 📝 Veja meu <a href="https://onedrive.live.com/?cid=2E898CA3F7ADC95F&id=2E898CA3F7ADC95F%2161469&parId=root&o=OneUp" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://1drv.ms/b/s!Al_JrfejjIkug-AdPLRmTrxsRy83TQ" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemsousa&layout=compact&theme=graywhite&title_color=268bd2" alt="Jorge-Sousa" />
